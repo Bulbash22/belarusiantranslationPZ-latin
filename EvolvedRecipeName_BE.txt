@@ -1,0 +1,12 @@
+EvolvedRecipeName_BE = {
+    EvolvedRecipeName_Base.CannedBologneseOpen = "Ѕл€шанка баланьезэ",
+    EvolvedRecipeName_Base.CannedCarrotsOpen = "Ѕл€шанка морквы",
+    EvolvedRecipeName_Base.CannedChiliOpen = "Ѕл€шанка м€са з чыл≥",
+    EvolvedRecipeName_Base.CannedCornOpen = "Ѕл€шанка кукурузы",
+    EvolvedRecipeName_Base.CannedCornedBeefOpen = "Ѕл€шанка €лав≥чыны",
+    EvolvedRecipeName_Base.CannedPeasOpen = "Ѕл€шанка гароху",
+    EvolvedRecipeName_Base.CannedPotatoOpen = "Ѕл€шанка бульбы",
+    EvolvedRecipeName_Base.CannedSardinesOpen = "Ѕл€шанка сардыны",
+    EvolvedRecipeName_Base.CannedTomatoOpen = "Ѕл€шанка тамату",
+    EvolvedRecipeName_Base.Teabag2 = "„ай",
+}
