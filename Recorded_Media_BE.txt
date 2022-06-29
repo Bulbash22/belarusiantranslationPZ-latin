@@ -1,6 +1,3 @@
-// Translated by: Platon "Matrioshka" Lifanov.
-// If you have any suggestions, complains or death threats, text me: Pe2h#5517
-
 RM_d088ff63-6c0d-43b0-bcd6-b023967a1b1a = "CD: Твоя улыбка. Твой поцелуй."
 RM_b4d7598e-1b9c-45a9-af70-fa23dd0b822f = "Твоя улыбка. Твой поцелуй."
 RM_0e84d884-926a-4a3a-b9eb-81361afe491a = "Every Reason"
