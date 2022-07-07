@@ -8,5 +8,5 @@ EvolvedRecipeName_BE = {
     EvolvedRecipeName_Base.CannedPotatoOpen = "Ѕл€шанка бульбы",
     EvolvedRecipeName_Base.CannedSardinesOpen = "Ѕл€шанка сардыны",
     EvolvedRecipeName_Base.CannedTomatoOpen = "Ѕл€шанка тамату",
-    EvolvedRecipeName_Base.Teabag2 = "„ай",
+    EvolvedRecipeName_Base.Teabag2 = "√арбата",
 }
