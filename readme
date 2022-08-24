@@ -1,11 +1,12 @@
 Belarusian (be-tarask) translation files for Project Zomboid
 
 ===========
-Repositories (if you added something add your link below and mark yourself somehow):
-https://github.com/Bulbash22/belarusiantranslationPZ (The first version)
-===========
-Authors (if you have added something add your repository link and name below the "Original version" text):
-Original version - Jaraslau, Bulbash22
+Contributing:
+Add your name to the "contributors" file and a link to your fork.
+By the end you will have something like this.
+Bulbash22, Jaraslau - https://github.com/Bulbash22/belarusiantranslationPZ
+YourName - https://github.com/YourName/yourFork
+
 ===========
 Small note:
 If you don't understand why certain words were chosen - I will try to explain it here.
@@ -32,13 +33,11 @@ Of course you can use other dictionaries, but these are the most reliable.
 !! IMPORTANT NOTE ABOUT TEXTS IN THE GAME (Tutorials, etc.):
 You won't be able to see words such as "Ty", "Vy" (and their forms); "Pryvitańnie"; "Havaryć" in the in-game texts, because these are maskalisms.
 The list of acceptable alternatives: "Sam", "Vaša" (and their forms); various other hellos; "Mović".
+I can't force you into using these, but to maintain general "code style" so to speak, if you'd use alternatives that I have written instead - that would be wonderful.
 
-!! IMPORTANT NOTE ABOUT A SHADY SCHEME: YES YES YES YES IT IS FULLY TRANSLATED!!!!! ItemName_BE.txt DONE!!!!!!!
-So. I came up with a shady scheme. I decided to "speed up our progress" by fully translating files through an online translator.
-What I thought was: "Oh, we are just going to correct it, clean up the trash and move on to the next files". I was deeply mistaken.
-It produced the translation of such an awful quality - that I wanted to jump out of my window. And correcting it was a pain.
-So if you see something... Out of place (except for "Сьмешны яблык", don't touch that), that is not taraskevica - it was probably done by an online translator and missed out by us on correction stage.
-Right now there is only one file that suffered the same fate and is yet to be corrected GameSound_BE.txt
+!! IMPORTANT NOTE ABOUT STRANGE WORDS: ItemName_BE.txt and GameSound_BE.txt may be absolutely illogical in some places. That's fine. If you see something like. "Папяровы шкляначку" - correct it.
+This happens because of our last-resort way of dealing with big files.
 
 !!! WE NEVER USE TRANSLATORS TO TRANSLATE THINGS. ONLY DICTIONARIES.
 
+!! 25.08.22 the fate of the project is unknown, because now it has only one contributor - Bulbash22. I am going to rest from this for a long time.
