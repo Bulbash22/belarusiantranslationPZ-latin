@@ -230,10 +230,12 @@ UI_BE = {
     UI_NewGame_Survivor = "Ацалеўшы",
     UI_NewGame_Survivor_desc = "Для аматараў змаганьняў, знаёмы гульцам па ранейшым зборкам PZ.",
     UI_NewGame_Tutorial = "Навучаньне",
-    UI_NewGame_Tutorial_desc = "Рэкамэндуемае месца для пачынаючых ацалеўшых у сьвету Project Zomboid...",
+    UI_NewGame_Tutorial_desc = "Параджанае месца для пачынаючых ацалеўшых у сьвету Project Zomboid...",
     UI_NewsVersion = "Вэрсія",
     UI_News_Anim = "<H1> Вітайма ў тэставай зборцы гульні, <LINE> таксама вядомую як IWBUMS «Build 41»! <LINE><LINE> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> <TEXT> <CENTRE> <SIZE:medium> Гэная вэрсія ў распрацоўцы, яна мае буйнейшае абнаўленьне коду, якое калі-небудзь было ў PZ. Некаторыя магчымасьці былі часова адключаныя - праца над імі працягваецца. Ваша напэўна сустрэне памылкі й праблемы з раўнавагай - ня злуйцеся, прымайце ўдзел, дайце нам ведаць пра гэта на нашым форуму або Discord-каналу. <LINE><LINE><LINE> <CENTRE> Пераклад на беларускую мову ствараецца дзьвюма асобамі й таксама знаходзіцца ў распрацоўцы. <LINE> Ваша можа пакінуць Вашэцевыя заўвагі на форуму ў разьдзелу «PZ Community Translations» або на Discord-каналу ў разьдзелу «#translations».",
-    UI_News_Anim3 = "<H1> Вітайма ў «Build 41»! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> Нешта маскалі зламалі тутака павінны быць надпіс такі... Ббубубубуб",
+    UI_News_Anim3 = "<H1> Вітайма ў Build 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
+                    "<CENTRE> <SIZE:large> Для найлепшых уражаньняў падчас гульні ў шматгульцовую гульню мы РАІМ Вашай гуляць толькі на сэрвэрох зь белага сьпісу ці зь сябрамі. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Зразумейце нас, калі ласка, пакуль мы выпраўляйма ды глянсуйма. <LINE><LINE> ",
     UI_No = "Не",
     UI_None = "Няма",
     UI_Off = "Вымкнуць",
