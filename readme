@@ -4,7 +4,7 @@ Belarusian (be-tarask) translation files for Project Zomboid
 Contributing:
 Add your name to the "contributors" file and a link to your fork.
 By the end you will have something like this.
-Bulbash22, Jaraslau - https://github.com/Bulbash22/belarusiantranslationPZ
+Bulbash22 - https://github.com/Bulbash22/belarusiantranslationPZ
 YourName - https://github.com/YourName/yourFork
 
 ===========
@@ -34,8 +34,3 @@ Of course you can use other dictionaries, but these are the most reliable.
 You won't be able to see words such as "Ty", "Vy" (and their forms); "Pryvitańnie"; "Havaryć" in the in-game texts, because these are maskalisms.
 The list of acceptable alternatives: "Sam", "Vaša" (and their forms); various other hellos; "Mović".
 I can't force you into using these, but to maintain general "code style" so to speak, if you'd use alternatives that I have written instead - that would be wonderful.
-
-!! IMPORTANT NOTE ABOUT STRANGE WORDS: ItemName_BE.txt and GameSound_BE.txt may be absolutely illogical in some places. That's fine. If you see something like. "Папяровы шкляначку" - correct it.
-This happens because of our last-resort way of dealing with big files.
-
-!!! WE NEVER USE TRANSLATORS TO TRANSLATE THINGS. ONLY DICTIONARIES.
