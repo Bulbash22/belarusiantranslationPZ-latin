@@ -23,8 +23,8 @@ Challenge_BE = {
 	Challenge_TheDescendingFog_name = "04. Сыходжаньне туману",
 	Challenge_TheDescendingFog_desc = "Людзі ўпершыню ўбачылі яго на вадзе. Лёгкую белую коўдру над ракой Агаё. <LINE> <LINE> Гэта быў проста туман. Потым ён ахутаў места. Мястоўцы крычалі, паміраючы ў змроку. Цяперака яны ходзяць там. <LINE> <LINE> Нябачныя, нячутныя й няўмольныя, яны перасьледуюць жывых.",
 	
-	Challenge_Kingsmouth_name = "08. Каралёвазяпа",
-	Challenge_Kingsmouth_desc = "Пепесьціцеся лагодным адпачынкам на высьпе Каралёвазяпа!",
+	Challenge_Kingsmouth_name = "08. Кінґсмут",
+	Challenge_Kingsmouth_desc = "Насалоджвайцеся лагодным адпачынкам на высьпе Кінґсмут!",
 	
 	Challenge_Studio_name = "09. Студыя",
 	Challenge_Studio_desc = "Месца, дзе здымаюцца ўсе лепшыя фільмы!",
