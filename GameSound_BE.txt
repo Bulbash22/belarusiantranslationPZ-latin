@@ -71,7 +71,7 @@ GameSound_BE = {
 	GameSound_MetaOwl = "Сава",
 	GameSound_MetaWolfHowl = "Выцьцё ваўкоў",
 	GameSound_ChatDrawCard = "Карты",
-	GameSound_ChatRollDice = "Ігральныя косткі",
+	GameSound_ChatRollDice = "Гуляльныя косткі",
 	
 	/* Music. */
 	GameSound_Category_Music = "Музыка",
