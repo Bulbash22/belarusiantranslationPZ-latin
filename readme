@@ -1,7 +1,6 @@
 Belarusian (be-tarask) translation files for Project Zomboid
-
 ===========
-Small note:
+Small notice:
 If you don't understand why certain words were chosen:
 These translations highly rely on non-Krapiva dictionaries and non-russian words. That means that they may not be that commonly used nowadays.
 So if you see an unfamiliar word - try researching it in the recommended dictionaries, archives and other translations beforehand.
@@ -11,7 +10,7 @@ The use of dialectal words is encouraged if it diversifies and improves the over
 ! DO NOT use Krapiva dictionary. !
 ! NEVER use Krapiva dictionary to translate things. !
 ! DO NOT use Krapiva dictionary at all. !
-
+===========
 List of acceptable dictionaries (from top to bottom, the best are at the top):
 https://slounik.org/bn
 https://slounik.org/nb
@@ -23,7 +22,6 @@ https://slounik.org/bulykarb [USE WITH CAUTION]
 https://slounik.org/bulykabr [USE WITH CAUTION]
 Of course you can use other dictionaries, but these are the most reliable.
 ===========
-
 !! IMPORTANT NOTE ABOUT TEXTS IN THE GAME (Tutorials, etc.):
 Please do not use "Pryvitańnie" in the in-game texts to maintain general translation style.
 The list of acceptable alternatives: various other hellos (e.g. "Zdaroŭ/Zdarova", "Dzień/Viečar dobry", "Dabrydzień/Dabryviečar", etc.).

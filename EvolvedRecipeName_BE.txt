@@ -1,5 +1,5 @@
 EvolvedRecipeName_BE = {
-    EvolvedRecipeName_Base.CannedBologneseOpen = "Ѕл€шанка баланьезэ",
+    EvolvedRecipeName_Base.CannedBologneseOpen = "Ѕл€шанка бал€ньезы",
     EvolvedRecipeName_Base.CannedCarrotsOpen = "Ѕл€шанка морквы",
     EvolvedRecipeName_Base.CannedChiliOpen = "Ѕл€шанка м€са з чыл≥",
     EvolvedRecipeName_Base.CannedCornOpen = "Ѕл€шанка к≥€ху",

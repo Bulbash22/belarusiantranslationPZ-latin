@@ -1,6 +1,6 @@
 Moodles_BE = {
     Moodles_CantSprint = "Рух абмежаваны",
-    Moodles_CantSprint_desc = "Цяжкая вопратка, грувасткія торбачкі або буйныя прадметы запавольваюць вашу!",
+    Moodles_CantSprint_desc = "Цяжкая вопратка, грувасткія торбачкі або буйныя прадметы запавольваюць вас!",
     Moodles_angry_desc_lvl1 = "Трохі разьюшаны.",
     Moodles_angry_desc_lvl2 = "Сур'ёзна дрэнны гумор.",
     Moodles_angry_desc_lvl3 = "Даведзены да лютасьці.",
@@ -10,7 +10,7 @@ Moodles_BE = {
     Moodles_angry_lvl3 = "Злосьць",
     Moodles_angry_lvl4 = "Лютасьць",
     Moodles_bleed_desc_lvl1 = "Патрабуецца перавязка.",
-    Moodles_bleed_desc_lvl2 = "Кроў багата пакідае вашу. Сіла й хуткасьць зьніжаныя.",
+    Moodles_bleed_desc_lvl2 = "Кроў багата пакідае вас. Сіла й хуткасьць зьніжаныя.",
     Moodles_bleed_desc_lvl3 = "Відаць, што закранулі лутніцу. Сур'ёзнае зьніжэньне сілаў і хуткасьці.",
     Moodles_bleed_desc_lvl4 = "Сьмерць неадхільна.",
     Moodles_bleeding_lvl1 = "Нязначны крывацёк",
