@@ -272,19 +272,19 @@ Recipe_BE = {
 	Recipe_Clean_Denim_Strips = "Ачысьціць пасы з джынсавай тканіны",
 	Recipe_Clean_Leather_Strips = "Ачысьціць скураныя пасы",
 	Recipe_Clean_Rag = "Ачысьціць анучу",
-	Recipe_Disinfect_Bandage = "Дэзыньфікуваць павівач",
-	Recipe_Disinfect_Rag = "Дэзыньфікуваць анучу",
-	Recipe_Douse_Cotton_in_Alcohol = "Дэзыньфікуваць баўновыя галкі",
+	Recipe_Disinfect_Bandage = "Дэзынфэкаваць павівач",
+	Recipe_Disinfect_Rag = "Дэзынфэкаваць анучу",
+	Recipe_Douse_Cotton_in_Alcohol = "Дэзынфэкаваць баўновыя галкі",
 	Recipe_Make_Comfrey_Poultice = "Прыгатаваць прыпарку жывакосту",
 	Recipe_Make_Plantain_Poultice = "Прыгатаваць прыпарку трыпутніку",
 	Recipe_Make_Splint = "Зрабіць ляшчоткі",
 	Recipe_Make_Wild_Garlic_Poultice = "Прыгатаваць прыпарку чарамшы",
-	Recipe_Put_Alcohol_on_Cotton = "Дэзыньфікуваць баўновыя галкі",
-	-- 08. Газазварка
+	Recipe_Put_Alcohol_on_Cotton = "Дэзынфэкаваць баўновыя галкі",
+	-- 08. Газавая зварка
 	Recipe_Make_Metal_Sheet = "Зрабіць аркуш мэталю",
-	Recipe_Make_Small_Metal_Sheet = "Зрабіць невялічкі аркуш мэталю",
+	Recipe_Make_Small_Metal_Sheet = "Зрабіць аркушве мэталю",
 	Recipe_Refill_Blow_Torch = "Заладаваць пальнік",
-	-- 09. Кавальская справа - адключана, але-ж ёсьць у гульне
+	-- 09. Кавальства - адключана, але-ж ёсьць у гульне
 	Recipe_Make_223_Bullets = "Зрабіць патроны .223",
 	Recipe_Make_223_Bullets_Mold = "Зрабіць матрыцу для патронаў .223",
 	Recipe_Make_308_Bullets = "Зрабіць патроны .308",
