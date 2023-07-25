@@ -1,352 +1,353 @@
 Stash_BELAT = {
-	Stash_AnnotedMap = "Мапа з зацемкамі",
+	Stash_AnnotedMap = "Mapa z zaciemkami",
 	
-    Stash_LVMap1_Text1 = "мёртвы ляйда з стрэльбай",
-    Stash_LVMap1_Text2 = "дом ляйды з стрэльбай",
+    Stash_LVMap1_Text1 = "miortvy lajda z strelbaj",
+    Stash_LVMap1_Text2 = "dom lajdy z strelbaj",
 
-    Stash_LVMap2_Text1 = "дарунак ад маткі",
-    Stash_LVMap2_Text2 = "калі зможаш, завітай",
-    Stash_LVMap2_Text3 = "на магліцу бабкі",
-    Stash_LVMap2_Text4 = "і памаліся за нас усіх",
+    Stash_LVMap2_Text1 = "darunak ad matki",
+    Stash_LVMap2_Text2 = "kali zmožaš, zavitaj",
+    Stash_LVMap2_Text3 = "na mahlicu babki",
+    Stash_LVMap2_Text4 = "i pamalisia za nas usich",
 
-    Stash_LVMap3_Text1 = "школа",
-    Stash_LVMap3_Text2 = "фура шпэтнага прыбіральніка мусіць быць ту",
-    Stash_LVMap3_Text3 = "калі выяжджацьмеш, зважай на плот!",
+    Stash_LVMap3_Text1 = "škoła",
+    Stash_LVMap3_Text2 = "fura špetnaha prybiralnika musić być tu",
+    Stash_LVMap3_Text3 = "kali vyjaždžaćmieš, zvažaj na płot!",
 
-    Stash_LVMap4_Text1 = "ня дбай, толькі час тута змарнаваў",
-    Stash_LVMap4_Text2 = "трэбе кувалда",
-    Stash_LVMap4_Text4 = "бэнзастанцыя",
+    Stash_LVMap4_Text1 = "nia dbaj, tolki čas tuta zmarnavaŭ",
+    Stash_LVMap4_Text2 = "trebie kuvałda",
+    Stash_LVMap4_Text4 = "benzastancyja",
 
-    Stash_LVMap5_Text1 = "Карліны ўвезьлі Дэбі сюды",
-    Stash_LVMap5_Text2 = "Зьвяртайся, калі трэ памагчы!",
-    Stash_LVMap5_Text3 = "мы іх бачылі",
-    Stash_LVMap5_Text4 = "по ўсёй спартоўні",
-    Stash_LVMap5_Text5 = "абночы сядзі ўдому, не выходзь!",
+    Stash_LVMap5_Text1 = "Karliny ŭvieźli Debi siudy",
+    Stash_LVMap5_Text2 = "Źviartajsia, kali tre pamahčy!",
+    Stash_LVMap5_Text3 = "my ich bačyli",
+    Stash_LVMap5_Text4 = "po ŭsioj spartoŭni",
+    Stash_LVMap5_Text5 = "abnočy siadzi ŭdomu, nie vychodź!",
 
-    Stash_LVMap6_Text1 = "НЯМА МЕСЦА ЛЕПЕЙ ЗА ДОМ!",
+    Stash_LVMap6_Text1 = "NIAMA MIESCA LEPIEJ ZA DOM!",
 
-    Stash_LVMap7_Text1 = "Дзякуй, што не забіў.",
-    Stash_LVMap7_Text2 = "То быў мой дом.",
-    Stash_LVMap7_Text3 = "У мяне было ўсё",
-    Stash_LVMap7_Text4 = "Гэтак здаецца",
+    Stash_LVMap7_Text1 = "Dziakuj, što nie zabiŭ.",
+    Stash_LVMap7_Text2 = "To byŭ moj dom.",
+    Stash_LVMap7_Text3 = "U mianie było ŭsio",
+    Stash_LVMap7_Text4 = "Hetak zdajecca",
 
-    Stash_LVMap8_Text1 = "мы тутака, трэйція дзьверы здолу",
-    Stash_LVMap8_Text2 = "Дыега, пахапіся з галачкамі",
-    Stash_LVMap8_Text3 = "ЯНЫ ЎСЕ ТУТ, СЮДЫ НЕ ХАДЗІ",
+    Stash_LVMap8_Text1 = "my tutaka, trejcija dźviery zdołu",
+    Stash_LVMap8_Text2 = "Dyjeha, pachapisia z hałačkami",
+    Stash_LVMap8_Text3 = "JANY ŬSIE TUT, SIUDY NIE CHADZI",
 
-    Stash_LVMap9_Text1 = "зброя а ежа ў дальняй пуні - зважай там!",
-    Stash_LVMap9_Text2 = "не заблукай у дрэвах",
-    Stash_LVMap9_Text3 = "яны таксама тут",
+    Stash_LVMap9_Text1 = "zbroja a ježa ŭ dalniaj puni - zvažaj tam!",
+    Stash_LVMap9_Text2 = "nie zabłukaj u drevach",
+    Stash_LVMap9_Text3 = "jany taksama tut",
 
-    Stash_LVMap10_Text1 = "стары паскудні з поўным ежы домам",
-    Stash_LVMap10_Text2 = "яшчэ й бяз стрэльбы",
-    Stash_LVMap10_Text3 = "у гэны раз, не прывадзі",
-    Stash_LVMap10_Text4 = "пярдоляную арду! сьцяміў?",
+    Stash_LVMap10_Text1 = "stary paskudni z poŭnym ježy domam",
+    Stash_LVMap10_Text2 = "jašče j biaz strelby",
+    Stash_LVMap10_Text3 = "u heny raz, nie pryvadzi",
+    Stash_LVMap10_Text4 = "piardolanuju ardu! ściamiŭ?",
 
-    Stash_LVMap11_Text1 = "поўная крама",
-    Stash_LVMap11_Text2 = "і поўная мерцьвякоў, нажаль",
-    Stash_LVMap11_Text3 = "сховішчы",
-    Stash_LVMap11_Text4 = "крама",
+    Stash_LVMap11_Text1 = "poŭnaja krama",
+    Stash_LVMap11_Text2 = "i poŭnaja mierćviakoŭ, nažal",
+    Stash_LVMap11_Text3 = "schoviščy",
+    Stash_LVMap11_Text4 = "krama",
 
-    Stash_LVMap12_Text1 = "дзявуха зь піцай",
-    Stash_LVMap12_Text2 = "прыгажун прадае бургеры",
-    Stash_LVMap12_Text3 = "наш намет",
-    Stash_LVMap12_Text4 = "канцэрт Sinsilla будзе",
-    Stash_LVMap12_Text5 = "ахуённым!!!",
+    Stash_LVMap12_Text1 = "dziavucha ź picaj",
+    Stash_LVMap12_Text2 = "pryhažun pradaje burhiery",
+    Stash_LVMap12_Text3 = "naš namiet",
+    Stash_LVMap12_Text4 = "kancert Sinsilla budzie",
+    Stash_LVMap12_Text5 = "achujonnym!!!",
 
-    Stash_LVMap13_Text1 = "трывалыя дамы",
-    Stash_LVMap13_Text2 = "але зважай, чышчучы двары",
-    Stash_LVMap13_Text3 = "самаход працуе",
+    Stash_LVMap13_Text1 = "tryvałyja damy",
+    Stash_LVMap13_Text2 = "ale zvažaj, čyščučy dvary",
+    Stash_LVMap13_Text3 = "samachod pracuje",
 
-    Stash_LVMap14_Text1 = "забарыкадуйся дошкамі, якія я прынес",
-    Stash_LVMap14_Text2 = "іначай яны ўварвуцца",
-    Stash_LVMap14_Text3 = "не забудзь!",
-    Stash_LVMap14_Text4 = "нікога не ўпушчай, покі я не вярнуся",
-    Stash_LVMap14_Text5 = "я буду праз паўгадзіны (зара 2:30)",
-    Stash_LVMap14_Text6 = "калі запазьнюся - скантактуй з Эдвардам па ўокі-токі",
-    Stash_LVMap14_Text7 = "цалую",
+    Stash_LVMap14_Text1 = "zabarykadujsia doškami, jakija ja prynies",
+    Stash_LVMap14_Text2 = "inačaj jany ŭvarvucca",
+    Stash_LVMap14_Text3 = "nie zabudź!",
+    Stash_LVMap14_Text4 = "nikoha nie ŭpuščaj, poki ja nie viarnusia",
+    Stash_LVMap14_Text5 = "ja budu praz paŭhadziny (zara 2:30)",
+    Stash_LVMap14_Text6 = "kali zapaźniusia - skantaktuj z Edvardam pa ŭoki-toki",
+    Stash_LVMap14_Text7 = "całuju",
 
-    Stash_LVMap15_Text1 = "Хто-б то не знайшоў, мае ймя Наталі Сыгмундзан.",
-    Stash_LVMap15_Text2 = "я была дацэнткай мастацтвазнаўства ў LSU",
-    Stash_LVMap15_Text3 = "Я ўжо памерла, але маю апошні прос.",
-    Stash_LVMap15_Text4 = "Канчатак часоў надыйдзе толькі тады, калі мы дазволім яму надысьці.",
-    Stash_LVMap15_Text5 = "Мы мусім захаваць скарб з галерыі выбразаў, іначай",
-    Stash_LVMap15_Text6 = "нам амэн. Сябром задалося сабраць спрат зброі ў",
-    Stash_LVMap15_Text7 = "самаходзе ля галерыі. Скарыстайце яго, каб ачысьціць галерыю.",
-    Stash_LVMap15_Text8 = "Не дазваляйце камусьці казаць, што людзтва скончана.",
-    Stash_LVMap15_Text9 = "самаход",
+    Stash_LVMap15_Text1 = "Chto-b to nie znajšoŭ, maje jmia Natali Syhmundzan.",
+    Stash_LVMap15_Text2 = "ja była dacentkaj mastactvaznaŭstva ŭ LSU",
+    Stash_LVMap15_Text3 = "Ja ŭžo pamierła, ale maju apošni pros.",
+    Stash_LVMap15_Text4 = "Kančatak časoŭ nadyjdzie tolki tady, kali my dazvolim jamu nadyści.",
+    Stash_LVMap15_Text5 = "My musim zachavać skarb z haleryi vybrazaŭ, inačaj",
+    Stash_LVMap15_Text6 = "nam amen. Siabrom zadałosia sabrać sprat zbroi ŭ",
+    Stash_LVMap15_Text7 = "samachodzie la haleryi. Skarystajcie jaho, kab ačyścić haleryju.",
+    Stash_LVMap15_Text8 = "Nie dazvalajcie kamuści kazać, što ludztva skončana.",
+    Stash_LVMap15_Text9 = "samachod",
 
-    Stash_LVMap16_Text1 = "уся гэта вуліца небясьпечна",
-    Stash_LVMap16_Text2 = "Тут яны забілі твайго сына",
-    Stash_LVMap16_Text3 = "ходзь да нас, зара бясьпечне",
-    Stash_LVMap16_Text4 = "мы перабіраемся на поўдзень",
-    Stash_LVMap16_Text5 = "калі ласка, хадзем з намі",
+    Stash_LVMap16_Text1 = "usia heta vulica niebiaśpiečna",
+    Stash_LVMap16_Text2 = "Tut jany zabili tvajho syna",
+    Stash_LVMap16_Text3 = "chodź da nas, zara biaśpiečnie",
+    Stash_LVMap16_Text4 = "my pierabirajemsia na poŭdzień",
+    Stash_LVMap16_Text5 = "kali łaska, chadziem z nami",
 
-	Stash_MulMap1_Text1 = "Тут. Пад падлогай.",
-	Stash_MulMap1_Text2 = "сякера?",
-	Stash_MulMap1_Text3 = "вялікі натоўп",
-	Stash_MulMap2_Text1 = "тут пакінуў то для цябе",
-	Stash_MulMap2_Text2 = "сховішча",
-	Stash_MulMap2_Text3 = "тут цэлы раён ператвораны",
-	Stash_MulMap3_Text1 = "Шротнік і патроны - схаваныя, калі хтось яшчэ знойдзе",
-	Stash_MulMap3_Text2 = "Абсталяваньне, струманты etc",
-	Stash_MulMap3_Text3 = "тута шмат",
-	Stash_MulMap4_Text1 = "найлацьвейшы разьвязак",
-	Stash_MulMap4_Text2 = "мэдыкамэнты",
-	Stash_MulMap4_Text3 = "не запазьняйся ту - іх дужа шмат",
-	Stash_MulMap6_Text1 = "Боб, я хачу, каб гэна месца было ўмацаванае як ФАРТЭЦА да таго, як я вярнуся.",
-	Stash_MulMap6_Text2 = "тутака мэдыкамэнты.",
-	Stash_MulMap6_Text21 = "Памятай - антыбіётыкі а павівачы. Назе яшчэ не каюк.",
-	Stash_MulMap6_Text3 = "Бачыў ажно статак, які ішоў сюдой. Ня йдзі! Кахаю, цалую",
-	Stash_MulMap7_Text1 = "Плян Б.",
-	Stash_MulMap7_Text2 = "Крама - ЯШЧЭ НЕ ЧАПАНАЯ!",
-	Stash_MulMap7_Text3 = "гамон",
-	Stash_MulMap8_Text1 = "Забяры мае рэчы. Пахавай мяне, калі можаш і калі то бясьпечна. Крый цябе Божа.",
-	Stash_MulMap8_Text2 = "Вазьмі выпіць, калі трэ",
-	Stash_MulMap8_Text3 = "Вялікі натоўп, ня рушыць ужо некалькі дзён",
-	Stash_MulMap10_Text1 = "дом сьмерці",
-	Stash_MulMap10_Text2 = "Spiffo's",
-	Stash_MulMap10_Text3 = "здаецца, ту ціха",
-	Stash_MulMap11_Text1 = "Зброя ў Spiffo's.",
-	Stash_MulMap11_Text2 = "Мэдыкамэнты тут.",
-	Stash_MulMap11_Text3 = "праблема",
-	Stash_MulMap12_Text1 = "шротнік тут, а ежа на кухні?",
-	Stash_MulMap12_Text2 = "мэдычная халера",
-	Stash_MulMap12_Text3 = "вялікі натоўп",
-	Stash_MulMap13_Text1 = "прайшоў паўшляху, але змушоны кінуць то ўсё тут - зацяжка",
-	Stash_MulMap13_Text2 = "у гаспадарчай краме яшчэ шмат зброі і снадзіва",
-	Stash_MulMap13_Text3 = "стрэлы",
+	Stash_MulMap1_Text1 = "Tut. Pad padłohaj.",
+	Stash_MulMap1_Text2 = "siakiera?",
+	Stash_MulMap1_Text3 = "vialiki natoŭp",
+	Stash_MulMap2_Text1 = "tut pakinuŭ to dla ciabie",
+	Stash_MulMap2_Text2 = "schovišča",
+	Stash_MulMap2_Text3 = "tut ceły rajon pieratvorany",
+	Stash_MulMap3_Text1 = "Šrotnik i patrony - schavanyja, kali chtoś jašče znojdzie",
+	Stash_MulMap3_Text2 = "Abstalavańnie, strumanty etc",
+	Stash_MulMap3_Text3 = "tuta šmat",
+	Stash_MulMap4_Text1 = "najłaćviejšy raźviazak",
+	Stash_MulMap4_Text2 = "medykamenty",
+	Stash_MulMap4_Text3 = "nie zapaźniajsia tu - ich duža šmat",
+	Stash_MulMap6_Text1 = "Bob, ja chaču, kab hena miesca było ŭmacavanaje jak FARTECA da taho, jak ja viarnusia.",
+	Stash_MulMap6_Text2 = "tutaka medykamenty.",
+	Stash_MulMap6_Text21 = "Pamiataj - antybijotyki a pavivačy. Nazie jašče nie kajuk.",
+	Stash_MulMap6_Text3 = "Bačyŭ ažno statak, jaki išoŭ siudoj. Nia jdzi! Kachaju, całuju",
+	Stash_MulMap7_Text1 = "Plan B.",
+	Stash_MulMap7_Text2 = "Krama - JAŠČE NIE ČAPANAJA!",
+	Stash_MulMap7_Text3 = "hamon",
+	Stash_MulMap8_Text1 = "Zabiary maje rečy. Pachavaj mianie, kali možaš i kali to biaśpiečna. Kryj ciabie Boža.",
+	Stash_MulMap8_Text2 = "Vaźmi vypić, kali tre",
+	Stash_MulMap8_Text3 = "Vialiki natoŭp, nia rušyć užo niekalki dzion",
+	Stash_MulMap10_Text1 = "dom śmierci",
+	Stash_MulMap10_Text2 = "Spiffos",
+	Stash_MulMap10_Text3 = "zdajecca, tu cicha",
+	Stash_MulMap11_Text1 = "Zbroja ŭ Spiffos.",
+	Stash_MulMap11_Text2 = "Medykamenty tut.",
+	Stash_MulMap11_Text3 = "prablema",
+	Stash_MulMap12_Text1 = "šrotnik tut, a ježa na kuchni?",
+	Stash_MulMap12_Text2 = "medyčnaja chalera",
+	Stash_MulMap12_Text3 = "vialiki natoŭp",
+	Stash_MulMap13_Text1 = "prajšoŭ paŭšlachu, ale zmušony kinuć to ŭsio tut - zaciažka",
+	Stash_MulMap13_Text2 = "u haspadarčaj kramie jašče šmat zbroi i snadziva",
+	Stash_MulMap13_Text3 = "streły",
 	
-	Stash_MulMap14_Text1 = "бясьпечны дом - забарыкадуй яго!",
-	Stash_MulMap14_Text2 = "яны паўсюль",
-	Stash_MulMap14_Text3 = "не страляй - іх вабіць гук",
+	Stash_MulMap14_Text1 = "biaśpiečny dom - zabarykaduj jaho!",
+	Stash_MulMap14_Text2 = "jany paŭsiul",
+	Stash_MulMap14_Text3 = "nie stralaj - ich vabić huk",
 
-	Stash_MulMap15_Text1 = "стары дахтур жыве альба жыў тут",
-	Stash_MulMap15_Text2 = "зважай тут",
-	Stash_MulMap15_Text21 = "ту ўкусілі D.",
+	Stash_MulMap15_Text1 = "stary dachtur žyvie alba žyŭ tut",
+	Stash_MulMap15_Text2 = "zvažaj tut",
+	Stash_MulMap15_Text21 = "tu ŭkusili D.",
 
-	Stash_MulMap16_Text1 = "у ахоўнікаў банка была зброя",
-	Stash_MulMap16_Text2 = "сумую за тэлевізарам і халодным півам, нахуй той сьвет",
+	Stash_MulMap16_Text1 = "u achoŭnikaŭ banka była zbroja",
+	Stash_MulMap16_Text2 = "sumuju za televizaram i chałodnym pivam, nachuj toj śviet",
 
-	Stash_MulMap17_Text1 = "zippees повен усім усялякім",
-	Stash_MulMap17_Text2 = "паглядзі тамсама побач пякарню",
-	Stash_MulMap17_Text3 = "Маці, зважай, тата яшчэ тут ходзе.",
+	Stash_MulMap17_Text1 = "zippees povien usim usialakim",
+	Stash_MulMap17_Text2 = "pahladzi tamsama pobač piakarniu",
+	Stash_MulMap17_Text3 = "Maci, zvažaj, tata jašče tut chodzie.",
 
-	Stash_MulMap18_Text1 = "Трэйлер Вар'ята Ўілі",
-	Stash_MulMap18_Text11 = "чуў, што ён ператварыўся",
-	Stash_MulMap18_Text12 = "спадзяюся, што ў яго засталіся стрэльбы",
+	Stash_MulMap18_Text1 = "Trejler Varjata Ŭjili",
+	Stash_MulMap18_Text11 = "čuŭ, što jon pieratvaryŭsia",
+	Stash_MulMap18_Text12 = "spadziajusia, što ŭ jaho zastalisia strelby",
 	
-	Stash_WpMap1_Text1 = "Пэўне, ён тут жыў",
-	Stash_WpMap1_Text2 = "Зашмат, каб змагчы. Богам прашу, не страляйце навокал",
-	Stash_WpMap2_Text1 = "думаю, яна тут жыла",
-	Stash_WpMap2_Text2 = "мэдычны цэнтар",
-	Stash_WpMap2_Text3 = "яна шныкае тут, бяз стрэльбы",
-	Stash_WpMap4_Text1 = "Будзь харобрым. Кахаю цябе",
-	Stash_WpMap4_Text3 = "НЯ ЙДЗІ СЮДЫ. Мэган дзесь тут. Яна ўжо сярод іх.",
-	Stash_WpMap4_Text31 = "Нат ня ведаў, што яна была ў горадзе. Проста ня йдзі.",
-	Stash_WpMap5_Text1 = "стуманты, яікя я кінуў у бакоўні, будуць неблагім пачаткам для цябе",
-	Stash_WpMap5_Text11 = "утрымлівай іх звонку як мага даўжэй. Я КАХАЮ ЦЯБЕ",
-	Stash_WpMap5_Text2 = "піца",
-	Stash_WpMap5_Text3 = "прыкрасьці",
-	Stash_WpMap6_Text1 = "Болей мне таго ня трэба. Спору.",
-	Stash_WpMap6_Text2 = "Twiggy's",
-	Stash_WpMap6_Text3 = "тут лютая срака",
-	Stash_WpMap8_Text1 = "Джалін ня хворая. Яна можа дапамагчы.",
-	Stash_WpMap8_Text2 = "Збройная крама",
-	Stash_WpMap8_Text3 = "бачыў сьмерць нейкага дзецюка",
-	Stash_WpMap9_Text1 = "пякельная прорва мерцьвякоў",
-	Stash_WpMap9_Text2 = "бацькаў офіц",
-	Stash_WpMap9_Text3 = "бацькава цела",
-	Stash_WpMap10_Text1 = "ўсе кшталты хуёвізны",
-	Stash_WpMap10_Text2 = "у гаспадарчай краме яшчэ могуць быць рэчы",
-	Stash_WpMap10_Text3 = "болей праблем",
-	Stash_WpMap11_Text1 = "Мэнэджар з Spiffo's хаваў шротнік у краме.",
-	Stash_WpMap11_Text11 = "Звар'яцелы курвель ведаў, ўсё прадбачыў.",
-	Stash_WpMap11_Text2 = "Нечапанае месца з абсталяваньнем.",
-	Stash_WpMap11_Text3 = "зьбягацьму месц ля дому - не шукай мяне ту",
-	Stash_WpMap12_Text1 = "Усе былі ў офіцы, калі пачалася трасца",
-	Stash_WpMap12_Text11 = "я забіў іх да таго, як яны ператварыліся",
-	Stash_WpMap12_Text2 = "збройная крама",
-	Stash_WpMap12_Text3 = "Натоўп, бы ў чорную пятніцу",
+	Stash_WpMap1_Text1 = "Peŭnie, jon tut žyŭ",
+	Stash_WpMap1_Text2 = "Zašmat, kab zmahčy. Boham prašu, nie stralajcie navokał",
+	Stash_WpMap2_Text1 = "dumaju, jana tut žyła",
+	Stash_WpMap2_Text2 = "medyčny centar",
+	Stash_WpMap2_Text3 = "jana šnykaje tut, biaz strelby",
+	Stash_WpMap4_Text1 = "Budź charobrym. Kachaju ciabie",
+	Stash_WpMap4_Text3 = "NIA JDZI SIUDY. Mehan dzieś tut. Jana ŭžo siarod ich.",
+	Stash_WpMap4_Text31 = "Nat nia viedaŭ, što jana była ŭ horadzie. Prosta nia jdzi.",
+	Stash_WpMap5_Text1 = "stumanty, jaikia ja kinuŭ u bakoŭni, buduć niebłahim pačatkam dla ciabie",
+	Stash_WpMap5_Text11 = "utrymlivaj ich zvonku jak maha daŭžej. Ja KACHAJU CIABIE",
+	Stash_WpMap5_Text2 = "pica",
+	Stash_WpMap5_Text3 = "prykraści",
+	Stash_WpMap6_Text1 = "Bolej mnie taho nia treba. Sporu.",
+	Stash_WpMap6_Text2 = "Twiggys",
+	Stash_WpMap6_Text3 = "tut lutaja sraka",
+	Stash_WpMap8_Text1 = "Džalin nia chvoraja. Jana moža dapamahčy.",
+	Stash_WpMap8_Text2 = "Zbrojnaja krama",
+	Stash_WpMap8_Text3 = "bačyŭ śmierć niejkaha dzieciuka",
+	Stash_WpMap9_Text1 = "piakielnaja prorva mierćviakoŭ",
+	Stash_WpMap9_Text2 = "baćkaŭ ofic",
+	Stash_WpMap9_Text3 = "baćkava cieła",
+	Stash_WpMap10_Text1 = "ŭsie kštałty chujovizny",
+	Stash_WpMap10_Text2 = "u haspadarčaj kramie jašče mohuć być rečy",
+	Stash_WpMap10_Text3 = "bolej prablem",
+	Stash_WpMap11_Text1 = "Menedžar z Spiffos chavaŭ šrotnik u kramie.",
+	Stash_WpMap11_Text11 = "Zvarjacieły kurviel viedaŭ, ŭsio pradbačyŭ.",
+	Stash_WpMap11_Text2 = "Niečapanaje miesca z abstalavańniem.",
+	Stash_WpMap11_Text3 = "źbiahaćmu miesc la domu - nie šukaj mianie tu",
+	Stash_WpMap12_Text1 = "Usie byli ŭ oficy, kali pačałasia trasca",
+	Stash_WpMap12_Text11 = "ja zabiŭ ich da taho, jak jany pieratvarylisia",
+	Stash_WpMap12_Text2 = "zbrojnaja krama",
+	Stash_WpMap12_Text3 = "Natoŭp, by ŭ čornuju piatnicu",
 	
-	Stash_WpMap13_Text1 = "забойствы шротнікам: 12",
-    Stash_WpMap13_Text2 = "забойствы сякерай: 20",
-    Stash_WpMap13_Text3 = "забойствы самаходам: 11",
+	Stash_WpMap13_Text1 = "zabojstvy šrotnikam: 12",
+    Stash_WpMap13_Text2 = "zabojstvy siakieraj: 20",
+    Stash_WpMap13_Text3 = "zabojstvy samachodam: 11",
 
-    Stash_WpMap14_Text1 = "Тоня, стрэнемся тут! Ежы задосыць."
-    Stash_WpMap14_Text11 = "Застаецца дачакацца на Коліна зь ягонай лодкай.",
+    Stash_WpMap14_Text1 = "Tonia, streniemsia tut! Ježy zadosyć."
+    Stash_WpMap14_Text11 = "Zastajecca dačakacca na Kolina ź jahonaj łodkaj.",
 
-    Stash_WpMap15_Text1 = "Яны ніколі ня знойдуць нас тут, павер мне.",
-    Stash_WpMap15_Text11 = "яны дурней дурнога",
-    Stash_WpMap15_Text2 = "Тут можна добра папаляваці",
+    Stash_WpMap15_Text1 = "Jany nikoli nia znojduć nas tut, pavier mnie.",
+    Stash_WpMap15_Text11 = "jany durniej durnoha",
+    Stash_WpMap15_Text2 = "Tut možna dobra papalavaci",
 
-    Stash_WpMap16_Text1 = "Імаверныя напады",
-    Stash_WpMap16_Text2 = "Бясьпечнае выйсьце"
-    Stash_WpMap16_Text21 = "плот, потым на поўдзень праз дарогу ў лес"
-    Stash_WpMap16_Text3 = "шанцы на выжываньне:"
-    Stash_WpMap16_Text31 = "месяц: 58%"
-    Stash_WpMap16_Text32 = "ўзіму: 22%"
-    Stash_WpMap16_Text4 = "Трэба болей ежы і рухомы самаход"
+    Stash_WpMap16_Text1 = "Imaviernyja napady",
+    Stash_WpMap16_Text2 = "Biaśpiečnaje vyjście"
+    Stash_WpMap16_Text21 = "płot, potym na poŭdzień praz darohu ŭ les"
+    Stash_WpMap16_Text3 = "šancy na vyžyvańnie:"
+    Stash_WpMap16_Text31 = "miesiac: 58%"
+    Stash_WpMap16_Text32 = "ŭzimu: 22%"
+    Stash_WpMap16_Text4 = "Treba bolej ježy i ruchomy samachod"
 	
-	Stash_MarchRidgeMap1_Text1 = "зброя тут",
-	Stash_MarchRidgeMap1_Text2 = "сакера і струманты тут?",
-	Stash_MarchRidgeMap1_Text3 = "ня йдзі",
-	Stash_MarchRidgeMap2_Text1 = "пакінуў табе пісталет",
-	Stash_MarchRidgeMap2_Text2 = "здаецца, у краме ёсьцяка ёмы",
-	Stash_MarchRidgeMap2_Text3 = "ці яны мігруюць? здаецца, ішлі сюдой",
-	Stash_MarchRidgeMap3_Text1 = "тут паляўнічы",
-	Stash_MarchRidgeMap3_Text2 = "пякарня",
-	Stash_MarchRidgeMap3_Text3 = "апошняе месца, дзе яе бачыў",
-	Stash_MarchRidgeMap4_Text1 = "Калі зможаш дарвацца, пакуль не ператварыўся, тут нешта, што табе дапаможа",
-	Stash_MarchRidgeMap4_Text11 = "Мы стрэнемся. Неяк",
-	Stash_MarchRidgeMap4_Text2 = "Грамадзкі цэнтар. Тут знойдзеш мой труп. Кахаю.",
-	Stash_MarchRidgeMap4_Text3 = "Малю Бога аб тым, абы ты ніколі тут не заставаўся. Хоць тут і добрыя ўспаміны.",
-	Stash_MarchRidgeMap5_Text1 = "не страляйце - тут ёсьць рэчы, яікя можна скарыстаць як зброю",
-	Stash_MarchRidgeMap5_Text2 = "Шпіталь",
-	Stash_MarchRidgeMap5_Text3 = "не гусьці тут",
-	Stash_MarchRidgeMap6_Text1 = "рэчы, яікя мы можам скарыстаць, каб зрабіць будынак бясьпечным",
-	Stash_MarchRidgeMap6_Text2 = "дадатковае абсталяваньне",
-	Stash_MarchRidgeMap6_Text3 = "пекла",
-	Stash_MarchRidgeMap7_Text1 = "На маю думку, ён тут хаваўся.",
-	Stash_MarchRidgeMap7_Text2 = "Імаверне, табе трэба накупіцца інструмэнтамі",
-	Stash_MarchRidgeMap7_Text3 = "Бачыў яго тут. Няма ўкусаў, але была ліхаманка.",
+	Stash_MarchRidgeMap1_Text1 = "zbroja tut",
+	Stash_MarchRidgeMap1_Text2 = "sakiera i strumanty tut?",
+	Stash_MarchRidgeMap1_Text3 = "nia jdzi",
+	Stash_MarchRidgeMap2_Text1 = "pakinuŭ tabie pistalet",
+	Stash_MarchRidgeMap2_Text2 = "zdajecca, u kramie jościaka jomy",
+	Stash_MarchRidgeMap2_Text3 = "ci jany mihrujuć? zdajecca, išli siudoj",
+	Stash_MarchRidgeMap3_Text1 = "tut palaŭničy",
+	Stash_MarchRidgeMap3_Text2 = "piakarnia",
+	Stash_MarchRidgeMap3_Text3 = "apošniaje miesca, dzie jaje bačyŭ",
+	Stash_MarchRidgeMap4_Text1 = "Kali zmožaš darvacca, pakul nie pieratvaryŭsia, tut niešta, što tabie dapamoža",
+	Stash_MarchRidgeMap4_Text11 = "My streniemsia. Niejak",
+	Stash_MarchRidgeMap4_Text2 = "Hramadzki centar. Tut znojdzieš moj trup. Kachaju.",
+	Stash_MarchRidgeMap4_Text3 = "Malu Boha ab tym, aby ty nikoli tut nie zastavaŭsia. Choć tut i dobryja ŭspaminy.",
+	Stash_MarchRidgeMap5_Text1 = "nie stralajcie - tut jość rečy, jaikia možna skarystać jak zbroju",
+	Stash_MarchRidgeMap5_Text2 = "Špital",
+	Stash_MarchRidgeMap5_Text3 = "nie huści tut",
+	Stash_MarchRidgeMap6_Text1 = "rečy, jaikia my možam skarystać, kab zrabić budynak biaśpiečnym",
+	Stash_MarchRidgeMap6_Text2 = "dadatkovaje abstalavańnie",
+	Stash_MarchRidgeMap6_Text3 = "piekła",
+	Stash_MarchRidgeMap7_Text1 = "Na maju dumku, jon tut chavaŭsia.",
+	Stash_MarchRidgeMap7_Text2 = "Imaviernie, tabie treba nakupicca instrumentami",
+	Stash_MarchRidgeMap7_Text3 = "Bačyŭ jaho tut. Niama ŭkusaŭ, ale była lichamanka.",
 	
-	Stash_MarchRidgeMap8_Text1 = "Пакінулі тут свае старыя струманты"
-    Stash_MarchRidgeMap8_Text2 = "Мне яны болей не патрэбны"
+	Stash_MarchRidgeMap8_Text1 = "Pakinuli tut svaje staryja strumanty"
+    Stash_MarchRidgeMap8_Text2 = "Mnie jany bolej nie patrebny"
 
-    Stash_MarchRidgeMap9_Text1 = "Запрашаем да нас ацалелых"
-    Stash_MarchRidgeMap9_Text2 = "нам заўсёды патрэбна ежа, зброя і шмат іншага"
-    Stash_MarchRidgeMap9_Text3 = "пазабівайце яшчэ мерцьвякоў покі ідзяцё дзеля большага прэстыжу!"
+    Stash_MarchRidgeMap9_Text1 = "Zaprašajem da nas acalełych"
+    Stash_MarchRidgeMap9_Text2 = "nam zaŭsiody patrebna ježa, zbroja i šmat inšaha"
+    Stash_MarchRidgeMap9_Text3 = "pazabivajcie jašče mierćviakoŭ poki idziacio dziela bolšaha prestyžu!"
 
-    Stash_MarchRidgeMap10_Text1 = "Блаславеньне для добрага духу",
-    Stash_MarchRidgeMap10_Text2 = "Хай гэта асьцераже вас ад пекла яшчэ на нейкі час",
+    Stash_MarchRidgeMap10_Text1 = "Błasłavieńnie dla dobraha duchu",
+    Stash_MarchRidgeMap10_Text2 = "Chaj heta aścieražie vas ad piekła jašče na niejki čas",
 
-    Stash_RiversideStashMap1_Text1 = "мы покуль тут",
-    Stash_RiversideStashMap1_Text11 = "спадзяюся, неўзабаве стрэнемся",
-    Stash_RiversideStashMap1_Text2 = "спору!",
+    Stash_RiversideStashMap1_Text1 = "my pokul tut",
+    Stash_RiversideStashMap1_Text11 = "spadziajusia, nieŭzabavie streniemsia",
+    Stash_RiversideStashMap1_Text2 = "sporu!",
 
-    Stash_RiversideStashMap2_Text1 = "Пакой 208. Чакаю цябе.",
-    Stash_RiversideStashMap2_Text11 = "Ці памятаеш, як мы бавілі цэлы дзень, проста гледзячы на раку?",
-    Stash_RiversideStashMap2_Text12 = "Не пакідай мяне тут адну. Цалую.",
+    Stash_RiversideStashMap2_Text1 = "Pakoj 208. Čakaju ciabie.",
+    Stash_RiversideStashMap2_Text11 = "Ci pamiataješ, jak my bavili ceły dzień, prosta hledziačy na raku?",
+    Stash_RiversideStashMap2_Text12 = "Nie pakidaj mianie tut adnu. Całuju.",
 
-    Stash_RiversideStashMap3_Text1 = "ранда відэа",
-    Stash_RiversideStashMap3_Text2 = "алькаголь",
+    Stash_RiversideStashMap3_Text1 = "randa videa",
+    Stash_RiversideStashMap3_Text2 = "alkahol",
 
-    Stash_RiversideStashMap4_Text1 = "Дэрыл захварэў, пакінуў яго тут",
-    Stash_RiversideStashMap4_Text11 = "шукацьме Наталі, яна ведае, што рабіць",
-    Stash_RiversideStashMap4_Text2 = "бачыў, як яны забілі двох чалавек тут, страшэнна",
+    Stash_RiversideStashMap4_Text1 = "Derył zachvareŭ, pakinuŭ jaho tut",
+    Stash_RiversideStashMap4_Text11 = "šukaćmie Natali, jana viedaje, što rabić",
+    Stash_RiversideStashMap4_Text2 = "bačyŭ, jak jany zabili dvoch čałaviek tut, strašenna",
 
-    Stash_RiversideStashMap5_Text1 = "ХТО ГЭТА ЗНОЙДЗЕ - НЯ ЙДЗІЦЕ СЮДЫ",
-    Stash_RiversideStashMap5_Text2 = "ТЫЯ КУРВЫ ЗАБІЛІ ФРЭНКА І ЎКУСІЛІ МЯНЕ",
+    Stash_RiversideStashMap5_Text1 = "CHTO HETA ZNOJDZIE - NIA JDZICIE SIUDY",
+    Stash_RiversideStashMap5_Text2 = "TYJA KURVY ZABILI FRENKA I ŬKUSILI MIANIE",
 
-    Stash_RiversideStashMap6_Text1 = "Ў Эдзі мусяць быць схаваныя некалькі стрэльбаў",
-    Stash_RiversideStashMap6_Text11 = "Падла б цэлы горад заваяваў, калі-б не захварэў.",
-    Stash_RiversideStashMap6_Text12 = "Спадзяемся, тая псыхапатка Вікі да іх не дарвалася.",
+    Stash_RiversideStashMap6_Text1 = "Ŭ Edzi musiać być schavanyja niekalki strelbaŭ",
+    Stash_RiversideStashMap6_Text11 = "Padła b ceły horad zavajavaŭ, kali-b nie zachvareŭ.",
+    Stash_RiversideStashMap6_Text12 = "Spadziajemsia, taja psychapatka Viki da ich nie darvałasia.",
 
-    Stash_RiversideStashMap7_Text1 = "Наведаў пакуль йшоў назад - яны ўсе ператвораныя",
-    Stash_RiversideStashMap7_Text2 = "Іду ў Gigamart",
-    Stash_RiversideStashMap7_Text21 = "Ня лайся з Сандрай, покуль мяне няма.",
+    Stash_RiversideStashMap7_Text1 = "Naviedaŭ pakul jšoŭ nazad - jany ŭsie pieratvoranyja",
+    Stash_RiversideStashMap7_Text2 = "Idu ŭ Gigamart",
+    Stash_RiversideStashMap7_Text21 = "Nia łajsia z Sandraj, pokul mianie niama.",
 
-    Stash_RiversideStashMap8_Text1 = "пакінуў табе крыху ежы", 
-    Stash_RiversideStashMap8_Text11 = "Паеш, перад адходам",
-    Stash_RiversideStashMap8_Text2 = "тут швэндаюць хворыя",
-    Stash_RiversideStashMap8_Text3 = "тут я бачыў той гурт людзей (мага, што ўжо мёртвых).",
+    Stash_RiversideStashMap8_Text1 = "pakinuŭ tabie krychu ježy", 
+    Stash_RiversideStashMap8_Text11 = "Paješ, pierad adchodam",
+    Stash_RiversideStashMap8_Text2 = "tut švendajuć chvoryja",
+    Stash_RiversideStashMap8_Text3 = "tut ja bačyŭ toj hurt ludziej (maha, što ŭžo miortvych).",
 
-    Stash_RiversideStashMap9_Text1 = "Тут нас чакае Тон",
-    Stash_RiversideStashMap9_Text2 = "бэнзын",
-    Stash_RiversideStashMap9_Text3 = "D укусілі, але несур'ёзна - патрэбныя антыбіётыкі абы былі",
+    Stash_RiversideStashMap9_Text1 = "Tut nas čakaje Ton",
+    Stash_RiversideStashMap9_Text2 = "benzyn",
+    Stash_RiversideStashMap9_Text3 = "D ukusili, ale niesurjozna - patrebnyja antybijotyki aby byli",
 
-    Stash_RiversideStashMap10_Text1 = "банк", 
-    Stash_RiversideStashMap10_Text2 = "Не забудзься на запасную зброю", 
-    Stash_RiversideStashMap10_Text21 = "Асада сякеры хістаецца, трэба лепей ўмацаваць",
-	Stash_RiversideStashMap10_Text3 = "Неўзабаве ўяжджаю з гораду на захад, ведаеш, дзе мяне знайсьці.",
+    Stash_RiversideStashMap10_Text1 = "bank", 
+    Stash_RiversideStashMap10_Text2 = "Nie zabudźsia na zapasnuju zbroju", 
+    Stash_RiversideStashMap10_Text21 = "Asada siakiery chistajecca, treba lepiej ŭmacavać",
+	Stash_RiversideStashMap10_Text3 = "Nieŭzabavie ŭjaždžaju z horadu na zachad, viedaješ, dzie mianie znajści.",
 	
-	Stash_RosewoodStashMap2_Text1 = "Схаваў трошкі зброі",
-	Stash_RosewoodStashMap2_Text2 = "тут наступны",
-	Stash_RosewoodStashMap2_Text3 = "сканчаецца акурат тут",
-	Stash_RosewoodStashMap3_Text1 = "Знайшоў рыштунак, які дапаможа нам умацаваць якое-небудь месца, дзе мы перачакаем.",
-	Stash_RosewoodStashMap3_Text11 = "Маці тут жыла. Стрэнемся тамсама, цалую",
-	Stash_RosewoodStashMap3_Text2 = "тут можа быць зброя - проста калі што якое",
-	Stash_RosewoodStashMap3_Text3 = "сюды ня йдзі",
+	Stash_RosewoodStashMap2_Text1 = "Schavaŭ troški zbroi",
+	Stash_RosewoodStashMap2_Text2 = "tut nastupny",
+	Stash_RosewoodStashMap2_Text3 = "skančajecca akurat tut",
+	Stash_RosewoodStashMap3_Text1 = "Znajšoŭ ryštunak, jaki dapamoža nam umacavać jakoje-niebud miesca, dzie my pieračakajem.",
+	Stash_RosewoodStashMap3_Text11 = "Maci tut žyła. Streniemsia tamsama, całuju",
+	Stash_RosewoodStashMap3_Text2 = "tut moža być zbroja - prosta kali što jakoje",
+	Stash_RosewoodStashMap3_Text3 = "siudy nia jdzi",
 	
-	Stash_RosewoodStashMap4_Text1 = "Пакінуў рэчы для эвакуацыі тут",
-    Stash_RosewoodStashMap4_Text2 = "Калі яны прыйдуць (А ЯНЫ ПРЫЙДУЦЬ)",
-    Stash_RosewoodStashMap4_Text3 = "бяры ўсё, што зможаш унесьці і бягі ў лес",
+	Stash_RosewoodStashMap4_Text1 = "Pakinuŭ rečy dla evakuacyi tut",
+    Stash_RosewoodStashMap4_Text2 = "Kali jany pryjduć (A JANY PRYJDUĆ)",
+    Stash_RosewoodStashMap4_Text3 = "biary ŭsio, što zmožaš unieści i biahi ŭ les",
 
-    Stash_RosewoodStashMap5_Text1 = "тут ежа",
-    Stash_RosewoodStashMap5_Text2 = "Не сьпяшайся!",
-    Stash_RosewoodStashMap5_Text3 = "Згадай, што здарылася зь містэрам Дунканам",
+    Stash_RosewoodStashMap5_Text1 = "tut ježa",
+    Stash_RosewoodStashMap5_Text2 = "Nie śpiašajsia!",
+    Stash_RosewoodStashMap5_Text3 = "Zhadaj, što zdaryłasia ź misteram Dunkanam",
 	
 	
 /*
-Stash_WorldMap1_Text1 = "сюды! Кара дапаможа",
-Stash_WorldMap1_Text2 = "бачыў тут мерцьвякоў (магчыма, што ўжо адышлі)",
-Stash_WorldMap1_Text4 = "калі едзяце самаходам - едзьце павольна, ня вабце іх.",
+Stash_WorldMap1_Text1 = "siudy! Kara dapamoža",
+Stash_WorldMap1_Text2 = "bačyŭ tut mierćviakoŭ (mahčyma, što ŭžo adyšli)",
+Stash_WorldMap1_Text4 = "kali jedziacie samachodam - jedźcie pavolna, nia vabcie ich.",
 
-Stash_WorldMap2_Text1 = "Добрае месца для базы, аддалены ад усяго",
-Stash_WorldMap2_Text11 = "па прыбыцьці спачатку забарыкадуйцеся!",
-Stash_WorldMap2_Text12 = "унутры я схаваў зброю",
+Stash_WorldMap2_Text1 = "Dobraje miesca dla bazy, addaleny ad usiaho",
+Stash_WorldMap2_Text11 = "pa prybyćci spačatku zabarykadujciesia!",
+Stash_WorldMap2_Text12 = "unutry ja schavaŭ zbroju",
 
-Stash_WorldMap3_Text1 = "тут бэнзын",
-Stash_WorldMap3_Text11 = "ён табе спатрэбіцца",
+Stash_WorldMap3_Text1 = "tut benzyn",
+Stash_WorldMap3_Text11 = "jon tabie spatrebicca",
 
-Stash_WorldMap4_Text1 = "Тут, з словаў Яны, жыла тая жанчына.",
-Stash_WorldMap4_Text11 = "Возможно, она нам поможет?",
+Stash_WorldMap4_Text1 = "Tut, z słovaŭ Jany, žyła taja žančyna.",
+Stash_WorldMap4_Text11 = "Vozmožno, ona nam pomožiet?",
 
-Stash_WorldMap5_Text1 = "Полі кінула тут рэчы",
-Stash_WorldMap5_Text11 = "Аглядзіцеся, перад тым як ўвайсьці",
-Stash_WorldMap5_Text12 = "і спаліце гэту мапу нахуй!!!",
+Stash_WorldMap5_Text1 = "Poli kinuła tut rečy",
+Stash_WorldMap5_Text11 = "Ahladziciesia, pierad tym jak ŭvajści",
+Stash_WorldMap5_Text12 = "i spalicie hetu mapu nachuj!!!",
 
-Stash_WorldMap6_Text1 = "добрыя рэчы",
-Stash_WorldMap6_Text2 = "заставацца тут немагчыма. узяць рэчы і сысьці",
-Stash_WorldMap6_Text3 = "Эндзі",
+Stash_WorldMap6_Text1 = "dobryja rečy",
+Stash_WorldMap6_Text2 = "zastavacca tut niemahčyma. uziać rečy i syści",
+Stash_WorldMap6_Text3 = "Endzi",
 
-Stash_WorldMap7_Text1 = "наліць бэнзыну тут",
-Stash_WorldMap7_Text2 = "dixie повен мерцьвякоў",
-Stash_WorldMap7_Text21 = "адкуль яны там?",
+Stash_WorldMap7_Text1 = "nalić benzynu tut",
+Stash_WorldMap7_Text2 = "dixie povien mierćviakoŭ",
+Stash_WorldMap7_Text21 = "adkul jany tam?",
 
-Stash_WorldMap8_Text1 = "рэчы Кена, мусяць быць карыснымі",
-Stash_WorldMap8_Text2 = "зважай на людзей, якія ідуць за табой",
-Stash_WorldMap8_Text21 = "і я ня аб мерцьвякох",
+Stash_WorldMap8_Text1 = "rečy Kiena, musiać być karysnymi",
+Stash_WorldMap8_Text2 = "zvažaj na ludziej, jakija iduć za taboj",
+Stash_WorldMap8_Text21 = "i ja nia ab mierćviakoch",
 
-Stash_WorldMap9_Text1 = "чыгуначны двор",
-Stash_WorldMap9_Text2 = "паўсюлт скрыні, якія могуць быць запоўненыя рэчмі",
-Stash_WorldMap8_Text3 = "офіцы, збор каляда",
-Stash_WorldMap8_Text4 = "сховішчы?",
+Stash_WorldMap9_Text1 = "čyhunačny dvor",
+Stash_WorldMap9_Text2 = "paŭsiułt skryni, jakija mohuć być zapoŭnienyja rečmi",
+Stash_WorldMap8_Text3 = "oficy, zbor kalada",
+Stash_WorldMap8_Text4 = "schoviščy?",
 
-Stash_WorldMap10_Text1 = "БЭНЗАСТАНЦЫЯ",
-Stash_WorldMap10_Text2 = "КРАМА АДЗЕНЬНЯ",
-Stash_WorldMap10_Text3 = "SPIFFO'S",
-Stash_WorldMap10_Text4 = "САМАХОДЫ",
+Stash_WorldMap10_Text1 = "BENZASTANCYJA",
+Stash_WorldMap10_Text2 = "KRAMA ADZIEŃNIA",
+Stash_WorldMap10_Text3 = "SPIFFOS",
+Stash_WorldMap10_Text4 = "SAMACHODY",
 
-Stash_WorldMap11_Text1 = "Талерка 3 на вежы 2 - губляе сыгналь каля 6 ГГц - праблема з электрычнасьцю",
-Stash_WorldMap11_Text11 = "Адвязу ў штаб для тэставаньня з Лэксынгтанам",
+Stash_WorldMap11_Text1 = "Talerka 3 na viežy 2 - hublaje syhnal kala 6 HHc - prablema z elektryčnaściu",
+Stash_WorldMap11_Text11 = "Adviazu ŭ štab dla testavańnia z Łeksynhtanam",
 
-Stash_WorldMap12_Text1 = "ВЯЛІКІ кемпінг - усё, што трэба (апрача галачак для Джэйн)",
-Stash_WorldMap12_Text11 = "спачатку трэба ачысьціць, але ёсьць дахалеры ежы, ложкі, камін"
-Stash_WorldMap12_Text2 = "НЕБЯСЬПЕКА: гандлёвы цэнтар на поўначы, тама сотні хворых"
+Stash_WorldMap12_Text1 = "VIALIKI kiempinh - usio, što treba (aprača hałačak dla Džejn)",
+Stash_WorldMap12_Text11 = "spačatku treba ačyścić, ale jość dachalery ježy, łožki, kamin"
+Stash_WorldMap12_Text2 = "NIEBIAŚPIEKA: handlovy centar na poŭnačy, tama sotni chvorych"
 
-Stash_WorldMap13_Text1 = "Гэл, мы йдзем сюды, тут мусіць быць бясьпечна"
-Stash_WorldMap13_Text11 = "Я ведаю, што гэта цяжка, але НЕ ПРЫВАДЗІ З САБОЙ ПАЎЛЮ"
-Stash_WorldMap13_Text12 = "Ты мусіш выратаваць прынамсі сябе"
+Stash_WorldMap13_Text1 = "Heł, my jdziem siudy, tut musić być biaśpiečna"
+Stash_WorldMap13_Text11 = "Ja viedaju, što heta ciažka, ale NIE PRYVADZI Z SABOJ PAŬLU"
+Stash_WorldMap13_Text12 = "Ty musiš vyratavać prynamsi siabie"
 
-Stash_WorldMap14_Text1 = "бабка"
-Stash_WorldMap14_Text2 = "тут яны забілі бабку"
-Stash_WorldMap14_Text3 = "Божа, ратуй іх"
+Stash_WorldMap14_Text1 = "babka"
+Stash_WorldMap14_Text2 = "tut jany zabili babku"
+Stash_WorldMap14_Text3 = "Boža, ratuj ich"
 
-Stash_WorldMap17_Text1 = "сьляпая зона ў вартавых"
-Stash_WorldMap17_Text2 = "Ві вымкне маніторы руху акурат у 23.15"
-Stash_WorldMap17_Text21 = "Не адцягайцеся. Ідзеце за Ві, фатаграфуйце і лахі пад пахі"
+Stash_WorldMap17_Text1 = "ślapaja zona ŭ vartavych"
+Stash_WorldMap17_Text2 = "Vi vymknie manitory ruchu akurat u 23.15"
+Stash_WorldMap17_Text21 = "Nie adciahajciesia. Idziecie za Vi, fatahrafujcie i łachi pad pachi"
 
-Stash_WorldMap18_Text1 = "Бэн"
-Stash_WorldMap18_Text2 = "сьцежка"
+Stash_WorldMap18_Text1 = "Ben"
+Stash_WorldMap18_Text2 = "ściežka"
 
-Stash_WorldMap19_Text1 = "Упарты курвель! Вазьмі прынамсі зброю, якую я пакінула ў дому місыс Кадзі."
-Stash_WorldMap19_Text11 = "Калі ты памрэш, я ніколі табе не дарую!!!"
+Stash_WorldMap19_Text1 = "Uparty kurviel! Vaźmi prynamsi zbroju, jakuju ja pakinuła ŭ domu misys Kadzi."
+Stash_WorldMap19_Text11 = "Kali ty pamreš, ja nikoli tabie nie daruju!!!"
 
-Stash_WorldMap19_Text1 = "КУРВА"
-Stash_WorldMap19_Text2 = "ПАДЛА"
-Stash_WorldMap19_Text3 = "ПАСКУДА"
+Stash_WorldMap19_Text1 = "KURVA"
+Stash_WorldMap19_Text2 = "PADŁA"
+Stash_WorldMap19_Text3 = "PASKUDA"
 
 */
 }
+
