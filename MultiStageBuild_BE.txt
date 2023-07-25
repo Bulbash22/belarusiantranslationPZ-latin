@@ -1,27 +1,27 @@
 MultiStageBuild_BE = {
-	-- Wooden Wall
-	MultiStageBuild_CreateWoodenWall_1 = "Пабудаваць драўляную сьцяну I узроўня",
-	MultiStageBuild_UpgradeWoodenWall_1To2 = "Умацаваць сьцяну да II узроўня",
-	MultiStageBuild_CreateWoodenWall_2 = "Пабудаваць драўляную сьцяну II узроўня",
-	MultiStageBuild_UpgradeWoodenWall_1To3 = "Умацаваць сьцяну да III узроўня",
-	MultiStageBuild_UpgradeWoodenWall_2To3 = "Умацаваць сьцяну да III узроўня",
-	MultiStageBuild_CreateWoodenWall_3 = "Пабудаваць драўляную сьцяну III узроўня",
-	-- Wooden Window
-	MultiStageBuild_CreateWoodenWindow_1 = "Пабудаваць драўляную аконную выйму I узроўня",
-	MultiStageBuild_UpgradeWoodenWindow_1To2 = "Умацаваць аконную выйму да II узроўня",
-	MultiStageBuild_CreateWoodenWindow_2 = "Пабудаваць драўляную аконную выйму II узроўня",
-	MultiStageBuild_UpgradeWoodenWindow_1To3 = "Умацаваць аконную выйму да III узроўня",
-	MultiStageBuild_UpgradeWoodenWindow_2To3 = "Умацаваць аконную выйму да III узроўня",
-	MultiStageBuild_CreateWoodenWindow_3 = "Пабудаваць драўляную аконную выйму III узроўня",
-	-- Metal Wall
-	MultiStageBuild_CreateMetalWall_1 = "Пабудаваць мэталічную сьцяну I узроўня",
-	MultiStageBuild_UpgradeMetalWall_1To2 = "Умацаваць сьцяну да II узроўня",
-	MultiStageBuild_CreateMetalWall_2 = "Пабудаваць мэталічную сьцяну II узроўня",
-	-- Metal Window
-	MultiStageBuild_CreateMetalWindow_1 = "Пабудаваць мэталічную аконную выйму I узроўня",
-	MultiStageBuild_UpgradeMetalWindow_1To2 = "Умацаваць аконную выйму да II узроўня",
-	MultiStageBuild_CreateMetalWindow_2 = "Пабудаваць мэталічную аконную выйму II узроўня",
-	-- wooden door frame
-	MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Умацаваць прахон да II узроўня",
-	MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Умацаваць прахон да III узроўня",
+    -- Wooden Wall
+    MultiStageBuild_CreateWoodenWall_1 = "РџР°Р±СѓРґР°РІР°С†СЊ РґСЂР°СћР»СЏРЅСѓСЋ СЃСЊС†СЏРЅСѓ I СѓР·СЂРѕСћРЅСЏ",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "РЈРјР°С†Р°РІР°С†СЊ СЃСЊС†СЏРЅСѓ РґР° II СѓР·СЂРѕСћРЅСЏ",
+    MultiStageBuild_CreateWoodenWall_2 = "РџР°Р±СѓРґР°РІР°С†СЊ РґСЂР°СћР»СЏРЅСѓСЋ СЃСЊС†СЏРЅСѓ II СѓР·СЂРѕСћРЅСЏ",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "РЈРјР°С†Р°РІР°С†СЊ СЃСЊС†СЏРЅСѓ РґР° III СѓР·СЂРѕСћРЅСЏ",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "РЈРјР°С†Р°РІР°С†СЊ СЃСЊС†СЏРЅСѓ РґР° III СѓР·СЂРѕСћРЅСЏ",
+    MultiStageBuild_CreateWoodenWall_3 = "РџР°Р±СѓРґР°РІР°С†СЊ РґСЂР°СћР»СЏРЅСѓСЋ СЃСЊС†СЏРЅСѓ III СѓР·СЂРѕСћРЅСЏ",
+    -- Wooden Window
+    MultiStageBuild_CreateWoodenWindow_1 = "РџР°Р±СѓРґР°РІР°С†СЊ РґСЂР°СћР»СЏРЅСѓСЋ Р°РєРѕРЅРЅСѓСЋ РІС‹Р№РјСѓ I СѓР·СЂРѕСћРЅСЏ",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "РЈРјР°С†Р°РІР°С†СЊ Р°РєРѕРЅРЅСѓСЋ РІС‹Р№РјСѓ РґР° II СѓР·СЂРѕСћРЅСЏ",
+    MultiStageBuild_CreateWoodenWindow_2 = "РџР°Р±СѓРґР°РІР°С†СЊ РґСЂР°СћР»СЏРЅСѓСЋ Р°РєРѕРЅРЅСѓСЋ РІС‹Р№РјСѓ II СѓР·СЂРѕСћРЅСЏ",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "РЈРјР°С†Р°РІР°С†СЊ Р°РєРѕРЅРЅСѓСЋ РІС‹Р№РјСѓ РґР° III СѓР·СЂРѕСћРЅСЏ",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "РЈРјР°С†Р°РІР°С†СЊ Р°РєРѕРЅРЅСѓСЋ РІС‹Р№РјСѓ РґР° III СѓР·СЂРѕСћРЅСЏ",
+    MultiStageBuild_CreateWoodenWindow_3 = "РџР°Р±СѓРґР°РІР°С†СЊ РґСЂР°СћР»СЏРЅСѓСЋ Р°РєРѕРЅРЅСѓСЋ РІС‹Р№РјСѓ III СѓР·СЂРѕСћРЅСЏ",
+    -- Metal Wall
+    MultiStageBuild_CreateMetalWall_1 = "РџР°Р±СѓРґР°РІР°С†СЊ РјСЌС‚Р°Р»С–С‡РЅСѓСЋ СЃСЊС†СЏРЅСѓ I СѓР·СЂРѕСћРЅСЏ",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "РЈРјР°С†Р°РІР°С†СЊ СЃСЊС†СЏРЅСѓ РґР° II СѓР·СЂРѕСћРЅСЏ",
+    MultiStageBuild_CreateMetalWall_2 = "РџР°Р±СѓРґР°РІР°С†СЊ РјСЌС‚Р°Р»С–С‡РЅСѓСЋ СЃСЊС†СЏРЅСѓ II СѓР·СЂРѕСћРЅСЏ",
+    -- Metal Window
+    MultiStageBuild_CreateMetalWindow_1 = "РџР°Р±СѓРґР°РІР°С†СЊ РјСЌС‚Р°Р»С–С‡РЅСѓСЋ Р°РєРѕРЅРЅСѓСЋ РІС‹Р№РјСѓ I СѓР·СЂРѕСћРЅСЏ",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "РЈРјР°С†Р°РІР°С†СЊ Р°РєРѕРЅРЅСѓСЋ РІС‹Р№РјСѓ РґР° II СѓР·СЂРѕСћРЅСЏ",
+    MultiStageBuild_CreateMetalWindow_2 = "РџР°Р±СѓРґР°РІР°С†СЊ РјСЌС‚Р°Р»С–С‡РЅСѓСЋ Р°РєРѕРЅРЅСѓСЋ РІС‹Р№РјСѓ II СѓР·СЂРѕСћРЅСЏ",
+    -- wooden door frame
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "РЈРјР°С†Р°РІР°С†СЊ РїСЂР°С…РѕРЅ РґР° II СѓР·СЂРѕСћРЅСЏ",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "РЈРјР°С†Р°РІР°С†СЊ РїСЂР°С…РѕРЅ РґР° III СѓР·СЂРѕСћРЅСЏ",
 }
