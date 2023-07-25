@@ -1,4 +1,4 @@
-Tooltip_BE = {
+Tooltip_BELAT = {
 	-- Item tooltip
 	Tooltip_food_Uncooked = "непрыгатаванае",
 	Tooltip_food_Rotten = "праванелае",

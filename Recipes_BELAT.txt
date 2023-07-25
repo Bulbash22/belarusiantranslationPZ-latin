@@ -1,4 +1,4 @@
-Recipe_BE = {
+Recipe_BELAT = {
 	-- 01. Асноўнае
 	Recipe_Close_Umbrella = "Згарнуць парасон",
 	Recipe_Craft_Sheet_Rope = "Зрабіць вяроўку з анучы",

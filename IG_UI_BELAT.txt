@@ -1,4 +1,4 @@
-IGUI_BE = {
+IGUI_BELAT = {
 	-- All the UI text used in game
 	-- InventoryPanel
 	IGUI_invpanel_Type = "Тып",

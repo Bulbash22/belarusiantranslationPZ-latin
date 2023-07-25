@@ -1,4 +1,4 @@
-ContextMenu_BE = {
+ContextMenu_BELAT = {
     ContextMenu_AddBattery = "Дадаць акумулятар",
     ContextMenu_AddCompost = "Дасыпаць нагной з",
     ContextMenu_AddCompostItem = "%1 (дадаць %2%)",

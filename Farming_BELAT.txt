@@ -1,4 +1,4 @@
-Farming_BE = {
+Farming_BELAT = {
     Farming_Broccoli = "Брокалі",
     Farming_Cabbages = "Капуста",
     Farming_Carrots = "Морква",

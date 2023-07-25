@@ -1,4 +1,4 @@
-MultiStageBuild_BE = {
+MultiStageBuild_BELAT = {
     -- Wooden Wall
     MultiStageBuild_CreateWoodenWall_1 = "Пабудаваць драўляную сьцяну I узроўня",
     MultiStageBuild_UpgradeWoodenWall_1To2 = "Умацаваць сьцяну да II узроўня",

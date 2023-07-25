@@ -1,4 +1,4 @@
-Stash_BE = {
+Stash_BELAT = {
 	Stash_AnnotedMap = "Мапа з зацемкамі",
 	
     Stash_LVMap1_Text1 = "мёртвы ляйда з стрэльбай",

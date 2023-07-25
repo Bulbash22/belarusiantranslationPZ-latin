@@ -1,4 +1,4 @@
-GameSound_BE = {
+GameSound_BELAT = {
 	GameSound_ButtonAdvanced = "Пашыраныя",
 	GameSound_ButtonReload = "Перазагрузка",
 	GameSound_ButtonReload_tt = "Перазагрузіць усе sounds.txt файлы.",

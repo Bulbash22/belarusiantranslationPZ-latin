@@ -1,4 +1,4 @@
-ItemName_BE = {
+ItemName_BELAT = {
 	ItemName_Base.223Bullets = "Патрон .223",
 	ItemName_Base.223Clip = "Набойнік .223",
 	ItemName_Base.308Bullets = "Патрон .308",

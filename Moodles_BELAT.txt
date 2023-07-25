@@ -1,4 +1,4 @@
-Moodles_BE = {
+Moodles_BELAT = {
     Moodles_CantSprint = "Рух абмежаваны",
     Moodles_CantSprint_desc = "Цяжкая вопратка, грувасткія торбачкі або буйныя прадметы запавольваюць вас!",
     Moodles_angry_desc_lvl1 = "Трохі разьюшаны.",

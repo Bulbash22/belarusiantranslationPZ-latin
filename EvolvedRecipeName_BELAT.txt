@@ -1,4 +1,4 @@
-EvolvedRecipeName_BE = {
+EvolvedRecipeName_BELAT = {
     EvolvedRecipeName_Base.CannedBologneseOpen = "Бляшанка баляньезы",
     EvolvedRecipeName_Base.CannedCarrotsOpen = "Бляшанка морквы",
     EvolvedRecipeName_Base.CannedChiliOpen = "Бляшанка мяса з чылі",

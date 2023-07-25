@@ -1,4 +1,4 @@
-MakeUp_BE = {
+MakeUp_BELAT = {
     MakeUpCategory_Eyes = "Вочы",
     MakeUpCategory_EyesShadow = "Цені для павекаў",
     MakeUpCategory_FullFace = "Увесь твар",

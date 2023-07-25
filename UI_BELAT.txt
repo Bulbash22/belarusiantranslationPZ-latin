@@ -1,4 +1,4 @@
-UI_BE = {
+UI_BELAT = {
     UI_AGCMode1_AdaptiveAnalog = "Адаптыўны аналягавы",
     UI_AGCMode2_AdaptiveDigital = "Адаптыўны лічбавы",
     UI_AGCMode3_FixedDigital = "Фіксаваны лічбавы",

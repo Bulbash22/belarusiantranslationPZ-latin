@@ -1,4 +1,4 @@
-Moveables_BE = {
+Moveables_BELAT = {
 	50s_Barstool = "Барнае крэсла у стылю 50-ых",
 	50s_Seat = "Канапа ў стылю 50-тых",
 	99_Cent_Sale_Sign = "Знак «Усё па 49 адсоткаў!»",
